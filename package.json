@@ -1,0 +1,22 @@
+{
+  "name": "tmp-ifx_db",
+  "version": "1.0.0",
+  "description": "tmp-ifx_db (Testing Only)",
+  "main": "my_index3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ifxdb/tmp-ifx_db.git"
+  },
+  "keywords": [
+    "tmp-ifx_db"
+  ],
+  "author": "Satyan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ifxdb/tmp-ifx_db/issues"
+  },
+  "homepage": "https://github.com/ifxdb/tmp-ifx_db#readme"
+}
